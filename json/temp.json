@@ -1,0 +1,226 @@
+[
+  {
+    "word": "sufficient",
+    "transcription": ["/səˈfɪʃənt/"],
+    "means": [
+      {
+        "cn": "足够的",
+        "en": "enough; adequate",
+        "sentences": [
+          {
+            "en": "We have sufficient supplies to last the winter.",
+            "zh": "我们有足够的供应来度过冬天。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "unaware",
+    "transcription": ["/ˌʌnəˈwɛr/"],
+    "means": [
+      {
+        "cn": "不知道的",
+        "en": "not having knowledge or awareness",
+        "sentences": [
+          {
+            "en": "She was unaware of the danger.",
+            "zh": "她不知道有危险。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "incognito",
+    "transcription": ["/ˌɪn.kɒɡˈniː.təʊ/"],
+    "means": [
+      {
+        "cn": "隐姓埋名的",
+        "en": "having one's true identity concealed",
+        "sentences": [
+          {
+            "en": "He traveled incognito to avoid the press.",
+            "zh": "他隐姓埋名地旅行以避开媒体。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prominent",
+    "transcription": ["/ˈprɒm.ɪ.nənt/"],
+    "means": [
+      {
+        "cn": "突出的，显著的",
+        "en": "important; famous",
+        "sentences": [
+          {
+            "en": "She was a prominent member of the community.",
+            "zh": "她是社区的重要成员。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "landscape",
+    "transcription": ["/ˈlæn.d.skeɪp/"],
+    "means": [
+      {
+        "cn": "风景，景色",
+        "en": "all the visible features of an area of land",
+        "sentences": [
+          {
+            "en": "The landscape was dotted with small villages.",
+            "zh": "风景中点缀着小村庄。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "intercept",
+    "transcription": ["/ˌɪn.təˈsept/"],
+    "means": [
+      {
+        "cn": "拦截，截取",
+        "en": "to stop and catch something or someone before that thing or person is able to reach a particular place",
+        "sentences": [
+          {
+            "en": "The police intercepted the stolen vehicle as it was leaving the city.",
+            "zh": "警方在被盗车辆离开城市时将其拦截下来。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "attempt",
+    "transcription": ["/əˈtempt/"],
+    "means": [
+      {
+        "cn": "尝试，企图",
+        "en": "to try to do something",
+        "sentences": [
+          {
+            "en": "She failed her driving test on the first attempt.",
+            "zh": "她第一次尝试驾照考试就失败了。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "responsible",
+    "transcription": ["/rɪˈspɒn.sə.bəl/"],
+    "means": [
+      {
+        "cn": "负责的，有责任心的",
+        "en": "having good judgment and the ability to act correctly and make decisions on your own",
+        "sentences": [
+          {
+            "en": "He's a very responsible person.",
+            "zh": "他是一个非常负责任的人。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wiring up",
+    "transcription": ["/ˈwaɪrɪŋ ʌp/"],
+    "means": [
+      {
+        "cn": "接线，布线",
+        "en": "the act of connecting electrical wires",
+        "sentences": [
+          {
+            "en": "The technician is wiring up the new network.",
+            "zh": "技术人员正在接新网络的线。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tweaked",
+    "transcription": ["/twiːkt/"],
+    "means": [
+      {
+        "cn": "微调，调整",
+        "en": "to change something slightly, especially in order to make it more correct",
+        "sentences": [
+          {
+            "en": "He tweaked the settings of the computer program.",
+            "zh": "他微调了计算机程序的设置。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Caution",
+    "transcription": ["/ˈkɔː.ʃən/"],
+    "means": [
+      {
+        "cn": "谨慎，小心",
+        "en": "great care and attention",
+        "sentences": [
+          {
+            "en": "Proceed with caution when driving in the rain.",
+            "zh": "在雨中驾驶时要小心行事。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "inaccurate",
+    "transcription": ["/ɪnˈæk.jər.ət/"],
+    "means": [
+      {
+        "cn": "不准确的，有误的",
+        "en": "not correct, true, or exact",
+        "sentences": [
+          {
+            "en": "The report contains some inaccurate information.",
+            "zh": "这份报告包含一些不准确的信息。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "archived",
+    "transcription": ["/ˈɑːr.kaɪvd/"],
+    "means": [
+      {
+        "cn": "已存档的",
+        "en": "stored or recorded for future use",
+        "sentences": [
+          {
+            "en": "The archived documents were stored in a secure location.",
+            "zh": "存档的文档被储存在一个安全的地点。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Speech",
+    "transcription": ["/spiːtʃ/"],
+    "means": [
+      {
+        "cn": "演讲，言语",
+        "en": "a formal address or discourse delivered to an audience",
+        "sentences": [
+          {
+            "en": "The President gave a speech about the state of the union.",
+            "zh": "总统就联邦的状况发表了演讲。"
+          }
+        ]
+      }
+    ]
+  }
+]
