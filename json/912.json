@@ -10,6 +10,10 @@
           {
             "en": "He is a communist who advocates for a classless society.",
             "zh": "他是一名共产主义者，主张无阶级的社会。"
+          },
+          {
+            "en": "During the Cold War, being a communist was considered very controversial in the United States.",
+            "zh": "在冷战期间，在美国，成为共产主义者被认为是非常有争议的。"
           }
         ]
       }
@@ -26,6 +30,10 @@
           {
             "en": "The word 'banana' has three syllables.",
             "zh": "“香蕉”这个词有三个音节。"
+          },
+          {
+            "en": "Each syllable in the word 'unforgettable' carries its own emphasis.",
+            "zh": "“难忘”这个词中的每个音节都有各自的重音。"
           }
         ]
       }
@@ -37,11 +45,15 @@
     "means": [
       {
         "cn": "元音",
-        "en": "a speech sound produced without constriction in the vocal tract",
+        "en": "a speech sound produced without significant constriction in the vocal tract",
         "sentences": [
           {
             "en": "The letters 'a', 'e', 'i', 'o', and 'u' are vowels.",
             "zh": "字母 'a'，'e'，'i'，'o' 和 'u' 是元音。"
+          },
+          {
+            "en": "Some words, like 'fly', contain a vowel sound made by combining two vowels.",
+            "zh": "有些单词，比如 'fly'，包含由两个元音组成的元音发音。"
           }
         ]
       }
@@ -58,6 +70,10 @@
           {
             "en": "He broke his jaw in the accident.",
             "zh": "他在事故中摔断了下巴。"
+          },
+          {
+            "en": "The crocodile's jaw can exert a tremendous amount of pressure.",
+            "zh": "鳄鱼的下颚可以施加巨大的压力。"
           }
         ]
       }
@@ -74,6 +90,10 @@
           {
             "en": "She applied lipstick to her lips.",
             "zh": "她在嘴唇上涂了口红。"
+          },
+          {
+            "en": "His lips trembled as he spoke.",
+            "zh": "他说话时嘴唇在颤抖。"
           }
         ]
       }
@@ -90,6 +110,10 @@
           {
             "en": "He speaks with a nasal accent.",
             "zh": "他说话带有鼻音。"
+          },
+          {
+            "en": "Nasal congestion can make it difficult to breathe.",
+            "zh": "鼻塞会导致呼吸困难。"
           }
         ]
       }
@@ -106,6 +130,10 @@
           {
             "en": "The letters 'b', 'c', and 'd' are consonants.",
             "zh": "字母 'b'，'c' 和 'd' 是辅音。"
+          },
+          {
+            "en": "Consonants and vowels are the basic building blocks of language.",
+            "zh": "辅音和元音是语言的基本构成元素。"
           }
         ]
       }
@@ -122,6 +150,10 @@
           {
             "en": "The sounds 'm', 'n', and 'ng' are examples of nasal consonants.",
             "zh": "“m”，“n” 和 “ng” 的发音是鼻辅音的例子。"
+          },
+          {
+            "en": "Nasal consonants can be found in many languages around the world.",
+            "zh": "许多世界各地的语言中都有鼻辅音。"
           }
         ]
       }
@@ -138,6 +170,10 @@
           {
             "en": "The 'oi' in 'boil' is an example of a diphthong.",
             "zh": "“boil”中的“oi”是一个双元音的例子。"
+          },
+          {
+            "en": "The diphthong in 'like' moves from 'a' to 'i'.",
+            "zh": "“like”中的双元音从 'a' 移至 'i'。"
           }
         ]
       }
