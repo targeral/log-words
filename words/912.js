@@ -1,0 +1,1 @@
+const input1 = ["communist", "syllable", "vowel", "jaw", "lip", "nasal", "consonant", "nasal consonant", "diphthong"]

@@ -1,0 +1,146 @@
+[
+  {
+    "word": "communist",
+    "transcription": ["/ˈkɒm.juː.nɪst/"],
+    "means": [
+      {
+        "cn": "共产主义者",
+        "en": "a supporter of communism",
+        "sentences": [
+          {
+            "en": "He is a communist who advocates for a classless society.",
+            "zh": "他是一名共产主义者，主张无阶级的社会。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "syllable",
+    "transcription": ["/ˈsɪl.ə.bəl/"],
+    "means": [
+      {
+        "cn": "音节",
+        "en": "a single unit of sound in a word",
+        "sentences": [
+          {
+            "en": "The word 'banana' has three syllables.",
+            "zh": "“香蕉”这个词有三个音节。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vowel",
+    "transcription": ["/ˈvaʊ.əl/"],
+    "means": [
+      {
+        "cn": "元音",
+        "en": "a speech sound produced without constriction in the vocal tract",
+        "sentences": [
+          {
+            "en": "The letters 'a', 'e', 'i', 'o', and 'u' are vowels.",
+            "zh": "字母 'a'，'e'，'i'，'o' 和 'u' 是元音。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jaw",
+    "transcription": ["/ʤɔ/"],
+    "means": [
+      {
+        "cn": "下巴，颚",
+        "en": "either of the two bones in the face that are used for biting and chewing",
+        "sentences": [
+          {
+            "en": "He broke his jaw in the accident.",
+            "zh": "他在事故中摔断了下巴。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lip",
+    "transcription": ["/lɪp/"],
+    "means": [
+      {
+        "cn": "嘴唇",
+        "en": "either of the two soft edges at the opening to the mouth",
+        "sentences": [
+          {
+            "en": "She applied lipstick to her lips.",
+            "zh": "她在嘴唇上涂了口红。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nasal",
+    "transcription": ["/ˈneɪ.zəl/"],
+    "means": [
+      {
+        "cn": "鼻音的",
+        "en": "relating to the nose, or having a quality of sound produced through the nose",
+        "sentences": [
+          {
+            "en": "He speaks with a nasal accent.",
+            "zh": "他说话带有鼻音。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "consonant",
+    "transcription": ["/ˈkɒn.sə.nənt/"],
+    "means": [
+      {
+        "cn": "辅音",
+        "en": "a speech sound that is produced by blocking the flow of air at some point",
+        "sentences": [
+          {
+            "en": "The letters 'b', 'c', and 'd' are consonants.",
+            "zh": "字母 'b'，'c' 和 'd' 是辅音。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nasal consonant",
+    "transcription": ["/ˈneɪ.zəl ˈkɒn.sə.nənt/"],
+    "means": [
+      {
+        "cn": "鼻辅音",
+        "en": "a type of consonant sound produced with airflow through the nose",
+        "sentences": [
+          {
+            "en": "The sounds 'm', 'n', and 'ng' are examples of nasal consonants.",
+            "zh": "“m”，“n” 和 “ng” 的发音是鼻辅音的例子。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "diphthong",
+    "transcription": ["/ˈdɪf.θɒŋ/"],
+    "means": [
+      {
+        "cn": "双元音",
+        "en": "a vowel sound in which you start with one vowel sound and move to another",
+        "sentences": [
+          {
+            "en": "The 'oi' in 'boil' is an example of a diphthong.",
+            "zh": "“boil”中的“oi”是一个双元音的例子。"
+          }
+        ]
+      }
+    ]
+  }
+]
